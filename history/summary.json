@@ -4,18 +4,20 @@
     "url": "https://www.asti.cgiar.org",
     "icon": "https://favicons.githubusercontent.com/www.asti.cgiar.org",
     "slug": "asti",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1235,
-    "timeDay": 1301,
-    "timeWeek": 1229,
-    "timeMonth": 1215,
-    "timeYear": 1235,
-    "dailyMinutesDown": {}
+    "time": 1219,
+    "timeDay": 926,
+    "timeWeek": 1143,
+    "timeMonth": 1192,
+    "timeYear": 1219,
+    "dailyMinutesDown": {
+      "2022-04-23": 0
+    }
   },
   {
     "name": "Wikipedia",
@@ -29,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 74,
-    "timeWeek": 130,
+    "timeDay": 135,
+    "timeWeek": 133,
     "timeMonth": 138,
     "timeYear": 135,
     "dailyMinutesDown": {}
